@@ -3,7 +3,7 @@ A low cost linear actuator for digital fabrication machines. Open hardware desig
 
 *Status January 2026: Under development, assembled but not properly tested*
 
-![](/img/version6.0-front.JPG)
+![](/img/first-test-axis-with-chain-drive.jpg)
 
 ![](/img/version6.0-front.JPG)
 
