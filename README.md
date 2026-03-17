@@ -1,6 +1,8 @@
 # Fabricatable-Axis-6
 A low cost linear actuator for digital fabrication machines. Open hardware designed in open software. Easy to 3D print parts with an easy to source BOM.
 
+Developement of this project is supported by patreons of Jens Dyvik and the UK Risa fund through Adam Smith International.
+
 *Status: Under development, the first protypes are assembled but not properly tested*
 
 ![](/img/first-test-axis-with-chain-drive.jpg)
@@ -50,4 +52,6 @@ A low cost linear actuator for digital fabrication machines. Open hardware desig
 *Perspective view of the first bicycle chain drive*
 
 ![](/img/example-off-intergated-belt-drive.png)
-*Example of an intergrated for a singel 3D print - two bearings rings and a belt drive in one part*
+*Example of an integrated for a single 3D print - two bearings rings and a belt drive in one part*
+
+License: Creative Commons Attribution-ShareAlike 4.0
