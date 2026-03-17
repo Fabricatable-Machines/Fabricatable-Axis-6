@@ -44,6 +44,27 @@ Developement of this project is supported by patreons of Jens Dyvik and the UK R
 - M5 screw - 20mm length (any scew head type works) - 12pcs - *to function as axles for the bearings*
 - M3 set screw - 5-10mm lengt (any normal M3 screw 16mm length or more will also work, but will protrude) - 6pcs - *for fine tuning bearing pressure*
 
+### 3D printing parts
+
+- All parts are desgined to be 3D printed with no support
+- Reccomended material: PETG
+- Reccomended shells/walls: 4-6
+- Reccomeded top/bottom layers: 4-6
+- Infill is not so important, default 20% will work fine
+- Default 0.4mm dimater nozels work fine. But a 0.6mm or 0.8mm is faster and makes stronger prints
+
+### Assembly
+
+- All screws self tap, no tapping needed
+- More info coming later
+
+### Tuning
+
+- Use the set screws to fine tune the pressure of the bearings on the steel tube
+-More info coming later
+
+![](/img/chain-wear-parameter-version-6.0.png)
+*It is possible to adjust a paramter to compensate for chin wear when using second hand bicycle chains. Adjust the paramter, print a sprocket, check the fit, and repaeat untill the chain wraps around the sprocket without popping or shifting.*
 
 ![](/img/version6.0-front.JPG)
 *Front view of the first bicycle chain drive*
